@@ -1,6 +1,5 @@
 {
-  "wallpapers": [
-    {
+    [{
       "imageurl": "bftrdbhffr.png",
       "thumbnailurl": "bftrdbhffr.png"
     },
@@ -19,6 +18,5 @@
     {
       "imageurl": "nfydngtfhe.png",
       "thumbnailurl": "nfydngtfhe.png"
-    }
-  ]
+    }]
 }
